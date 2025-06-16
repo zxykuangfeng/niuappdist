@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的会员卡",
+  "usingComponents": {
+    "u-avatar": "../../../../node-modules/uview-plus/components/u-avatar/u-avatar",
+    "u-icon": "../../../../node-modules/uview-plus/components/u-icon/u-icon",
+    "u-loading-page": "../../../../node-modules/uview-plus/components/u-loading-page/u-loading-page",
+    "mescroll-empty": "../../../../components/mescroll/mescroll-empty/mescroll-empty"
+  }
+}

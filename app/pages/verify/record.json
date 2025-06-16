@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "核销记录",
+  "usingComponents": {
+    "u--image": "../../../node-modules/uview-plus/components/u--image/u--image",
+    "mescroll-body": "../../../components/mescroll/mescroll-body/mescroll-body",
+    "mescroll-empty": "../../../components/mescroll/mescroll-empty/mescroll-empty",
+    "select-date": "../../../components/select-date/select-date"
+  }
+}

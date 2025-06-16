@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../utils/request.js");exports.getCouponList=function(t){return e.request.get("zzhc/coupon",t)},exports.getMyCouponList=function(t){return e.request.get("zzhc/member/coupon",t)},exports.receiveCoupon=function(t){return e.request.post("zzhc/coupon",t,{showSuccessMessage:!0})};

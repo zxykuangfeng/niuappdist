@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "开通会员卡",
+  "usingComponents": {
+    "u-tabbar": "../../../../node-modules/uview-plus/components/u-tabbar/u-tabbar",
+    "pay": "../../../../components/pay/pay"
+  }
+}

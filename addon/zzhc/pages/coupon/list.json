@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "优惠券列表",
+  "usingComponents": {
+    "mescroll-body": "../../../../components/mescroll/mescroll-body/mescroll-body",
+    "mescroll-empty": "../../../../components/mescroll/mescroll-empty/mescroll-empty"
+  }
+}

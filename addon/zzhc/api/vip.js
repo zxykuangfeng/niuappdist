@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../utils/request.js");exports.getMyVip=function(t){return e.request.get("zzhc/member/vip",t)},exports.getVipConfig=function(){return e.request.get("zzhc/vip/config")},exports.getVipList=function(){return e.request.get("zzhc/vip")},exports.orderCreate=function(t){return e.request.post("zzhc/vip/order/create",t)};

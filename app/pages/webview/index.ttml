@@ -1,0 +1,1 @@
+<view class="data-v-9d928639" style="{{d}}"><u-icon tt:if="{{b}}" class="navigate-back data-v-9d928639" bindclick="{{a}}" u-i="9d928639-0" bind:__l="__l" u-p="{{b}}"></u-icon><web-view class="data-v-9d928639" src="{{c}}"></web-view></view>

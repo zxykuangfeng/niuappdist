@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "登录",
+  "usingComponents": {
+    "u-checkbox": "../../../node-modules/uview-plus/components/u-checkbox/u-checkbox",
+    "u-checkbox-group": "../../../node-modules/uview-plus/components/u-checkbox-group/u-checkbox-group",
+    "uni-popup": "../../../uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "bind-mobile": "../../../components/bind-mobile/bind-mobile"
+  }
+}

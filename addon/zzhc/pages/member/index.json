@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "loading-page": "../../../../components/loading-page/loading-page",
+    "diy-group": "../../../components/diy/group/index"
+  }
+}

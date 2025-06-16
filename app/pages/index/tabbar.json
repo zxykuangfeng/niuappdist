@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-tabbar-item": "../../../node-modules/uview-plus/components/u-tabbar-item/u-tabbar-item",
+    "u-tabbar": "../../../node-modules/uview-plus/components/u-tabbar/u-tabbar",
+    "top-tabbar": "../../../components/top-tabbar/top-tabbar"
+  }
+}

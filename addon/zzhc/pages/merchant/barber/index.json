@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "发型师端",
+  "usingComponents": {
+    "u-icon": "../../../../../node-modules/uview-plus/components/u-icon/u-icon",
+    "u-loading-page": "../../../../../node-modules/uview-plus/components/u-loading-page/u-loading-page",
+    "u-input": "../../../../../node-modules/uview-plus/components/u-input/u-input",
+    "u-button": "../../../../../node-modules/uview-plus/components/u-button/u-button",
+    "u-popup": "../../../../../node-modules/uview-plus/components/u-popup/u-popup"
+  }
+}

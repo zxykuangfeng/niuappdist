@@ -1,0 +1,1 @@
+<view class="horz-line-wrap"><view tt:if="{{a}}" class="h-[30rpx]"></view><view style="{{b}}"></view><view tt:if="{{c}}" class="h-[30rpx]"></view></view>

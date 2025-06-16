@@ -1,0 +1,1 @@
+<view class="{{('mescroll-empty') + ' ' + 'empty-page' + ' ' + (h && 'empty-fixed')}}" style="{{'z-index:' + i + ';' + ('top:' + j)}}"><view><image tt:if="{{a}}" class="img" src="{{b}}" mode="aspectFit"/></view><view tt:if="{{c}}" class="desc">{{d}}</view><view tt:if="{{e}}" class="btn" bindtap="{{g}}">{{f}}</view></view>

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "选择门店",
+  "usingComponents": {
+    "u-icon": "../../../../node-modules/uview-plus/components/u-icon/u-icon",
+    "u--image": "../../../../node-modules/uview-plus/components/u--image/u--image",
+    "mescroll-body": "../../../../components/mescroll/mescroll-body/mescroll-body",
+    "mescroll-empty": "../../../../components/mescroll/mescroll-empty/mescroll-empty"
+  }
+}

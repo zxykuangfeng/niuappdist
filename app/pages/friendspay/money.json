@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "u-avatar": "../../../node-modules/uview-plus/components/u-avatar/u-avatar",
+    "u--image": "../../../node-modules/uview-plus/components/u--image/u--image",
+    "pay": "../../../components/pay/pay",
+    "loading-page": "../../../components/loading-page/loading-page",
+    "message": "./components/message"
+  }
+}

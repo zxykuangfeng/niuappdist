@@ -1,0 +1,1 @@
+<view style="{{b}}"><view class="error-msg">{{a}}</view></view>

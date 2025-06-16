@@ -1,0 +1,1 @@
+<view class="w-screen h-screen bg-[#424040] text-right" style="{{b}}"><image src="{{a}}" mode="heightFix" class="pt-[30rpx] pr-[30rpx] h-[200rpx] w-[auto]"/><view class="text-white font-bold pt-[30rpx] pr-[30rpx]">点击右上角跳转到浏览器打开</view></view>

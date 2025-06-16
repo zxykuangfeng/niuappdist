@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "发型师介绍",
+  "usingComponents": {
+    "u-parse": "../../../../node-modules/uview-plus/components/u-parse/u-parse",
+    "u-loading-page": "../../../../node-modules/uview-plus/components/u-loading-page/u-loading-page"
+  }
+}

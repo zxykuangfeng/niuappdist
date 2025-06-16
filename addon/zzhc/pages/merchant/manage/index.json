@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "店长端",
+  "usingComponents": {
+    "u-icon": "../../../../../node-modules/uview-plus/components/u-icon/u-icon",
+    "u-loading-page": "../../../../../node-modules/uview-plus/components/u-loading-page/u-loading-page"
+  }
+}

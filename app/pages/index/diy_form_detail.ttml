@@ -1,0 +1,1 @@
+<view style="{{d}}"><view class="w-screen h-screen bg-[var(--page-bg-color)] min-h-[100vh]"><view class="bg-white p-3"><view class="text-[30rpx] font-500 leading-[45rpx]">{{a}}</view><u-divider tt:if="{{b}}" u-i="a75aecb2-0" bind:__l="__l" u-p="{{b}}"></u-divider><diy-form-detail tt:if="{{c}}" u-i="a75aecb2-1" bind:__l="__l" u-p="{{c}}"/></view></view></view>

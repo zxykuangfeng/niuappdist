@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "选择项目",
+  "usingComponents": {
+    "u-icon": "../../../../node-modules/uview-plus/components/u-icon/u-icon",
+    "u--image": "../../../../node-modules/uview-plus/components/u--image/u--image",
+    "u-tabbar": "../../../../node-modules/uview-plus/components/u-tabbar/u-tabbar",
+    "mescroll-body": "../../../../components/mescroll/mescroll-body/mescroll-body",
+    "mescroll-empty": "../../../../components/mescroll/mescroll-empty/mescroll-empty"
+  }
+}

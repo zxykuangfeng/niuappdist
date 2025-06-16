@@ -1,0 +1,1 @@
+"use strict";const t=require("../../../utils/request.js");exports.getCategoryList=function(){return t.request.get("zzhc/goods/category")},exports.getGoodsList=function(e){return t.request.get("zzhc/goods",e)};

@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../utils/request.js");exports.getBarberDetail=function(r){return e.request.get(`zzhc/barber/${r}`)},exports.getBarberList=function(r){return e.request.get("zzhc/barber",r)};

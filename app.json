@@ -1,0 +1,106 @@
+{
+  "pages": [
+    "app/pages/index/index",
+    "app/pages/index/tabbar",
+    "app/pages/auth/index",
+    "app/pages/auth/agreement",
+    "app/pages/auth/bind",
+    "app/pages/auth/login",
+    "app/pages/auth/register",
+    "app/pages/auth/resetpwd",
+    "app/pages/index/diy",
+    "app/pages/index/diy_form",
+    "app/pages/index/diy_form_result",
+    "app/pages/index/diy_form_detail",
+    "app/pages/index/close",
+    "app/pages/index/nosite",
+    "app/pages/pay/browser",
+    "app/pages/pay/result",
+    "app/pages/setting/index",
+    "app/pages/webview/index",
+    "app/pages/index/develop",
+    "app/pages/verify/index",
+    "app/pages/verify/verify",
+    "app/pages/verify/detail",
+    "app/pages/verify/record",
+    "app/pages/weapp/order_shipping",
+    "app/pages/friendspay/share",
+    "app/pages/friendspay/money"
+  ],
+  "subPackages": [
+    {
+      "root": "addon/zzhc",
+      "pages": [
+        "pages/index",
+        "pages/barber/list",
+        "pages/barber/detail",
+        "pages/order/list",
+        "pages/order/detail",
+        "pages/member/index",
+        "pages/member/coupon",
+        "pages/member/vip",
+        "pages/store/list",
+        "pages/store/detail",
+        "pages/goods/select",
+        "pages/vip/buy",
+        "pages/coupon/list",
+        "pages/merchant/manage/index",
+        "pages/merchant/barber/index",
+        "pages/merchant/barber/order/list",
+        "pages/merchant/barber/order/detail",
+        "pages/merchant/barber/work/list",
+        "pages/merchant/manage/order/list",
+        "pages/merchant/manage/order/detail",
+        "pages/merchant/manage/work/list"
+      ]
+    },
+    {
+      "root": "app/components",
+      "pages": []
+    },
+    {
+      "root": "app/pages/member",
+      "pages": [
+        "apply_cash_out",
+        "commission",
+        "balance",
+        "level",
+        "detailed_account",
+        "cash_out",
+        "cash_out_detail",
+        "index",
+        "personal",
+        "point",
+        "point_detail",
+        "account",
+        "account_edit",
+        "address",
+        "address_edit",
+        "sign_in",
+        "contact"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#F6F6F6",
+    "backgroundColorTop": "#F6F6F6",
+    "backgroundColorBottom": "#F6F6F6"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "app/pages/index/index"
+      },
+      {
+        "pagePath": "app/pages/index/nosite"
+      },
+      {
+        "pagePath": "app/pages/index/tabbar"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

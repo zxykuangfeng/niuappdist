@@ -1,0 +1,1 @@
+"use strict";const t=require("../../../utils/request.js");exports.getStoreDetail=function(e){return t.request.get(`zzhc/store/${e}`)},exports.getStoreList=function(e){return t.request.get("zzhc/store",e)},exports.getStoreStaffComponents=function(e){return t.request.get("zzhc/store/components",e)};
